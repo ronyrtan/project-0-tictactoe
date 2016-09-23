@@ -26,3 +26,5 @@ The ability to start a new game / rest the game can be only be acquired after th
 Notice in the above 'name change' image the New Game button doesn't appear until round is over.
 
 Enjoy and have fun!
+
+[link to play Tic Tac Toe](https://ronyrtan.github.io/project-0-tictactoe/)
