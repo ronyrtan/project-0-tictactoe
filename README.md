@@ -5,19 +5,19 @@ Working version of the game Tic Tac Toe created from scratch. The game includes 
 An additional AI version of the game, where the player can test their skills to vs an unbeatable AI is on the way.
 
 Example of output for win scenarios :
-![playerXWin](images/playerXwin.png)
+<img src="images/playerXwin.png" width="310" height="400px" alt="playerXwin">
 
-![playerOWin](images/playerOwin.png)
+<img src="images/playerOwin.png" width="310px" height="400px" alt="playerOwin">
 
 Example of output for a draw :
-![playerDraw](images/playerDraw.png)
+<img src="images/playerDraw.png" width="310px" height="400px" alt="playerDraw">
 
 ### How to change player name / token :
 
 Enter the desired name for each player in the input boxes provided above the board and click the 'enter' button to confirm their names.
 
 Example output of possible name change :
-![playerOwin](images/nameChange.png)
+<img src="images/nameChange.png" width="310px" height="400px" alt="nameChange">
 
 ### New game / reset game :
 
